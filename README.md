@@ -9,8 +9,7 @@ Our results show that GatorAffinity-RNA achieves state-of-the-art performance on
 - **Python 3.x**
 - **PyTorch**
 - **RDKit**: For chemical informatics.
-- **PyMOL**: For 3D structure manipulation. This is a specialized molecular visualization software and a critical dependency for data preprocessing. It must be installed separately and be accessible in your environment for the `pymol` Python package to work.
-- **Conda**: Recommended for managing dependencies.
+- **PyMOL**: For 3D structure manipulation.
 
 ## Project Structure
 
