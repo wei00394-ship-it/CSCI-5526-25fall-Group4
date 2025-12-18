@@ -1,0 +1,19 @@
+{
+    "data_dir": "C:\\Users\\Administrator\\Desktop\\Class\\CSCI5526\\final\\benchmark\\RLaffinity-main\\3dcnn_lba\\my_data\\fold5_lmdb\\split",
+    "mode": "test",
+    "output_dir": "C:\\Users\\Administrator\\Desktop\\Class\\CSCI5526\\final\\benchmark\\RLaffinity-main\\3dcnn_lba\\output_5fold\\fold5\\output\\1",
+    "unobserved": false,
+    "csv_train": "C:\\Users\\Administrator\\Desktop\\RNA\\train.csv",
+    "csv_val": "C:\\Users\\Administrator\\Desktop\\RNA\\val.csv",
+    "csv_test": "C:\\Users\\Administrator\\Desktop\\RNA\\test.csv",
+    "pdb_col": "pdb",
+    "learning_rate": 0.0001,
+    "conv_drop_rate": 0.1,
+    "fc_drop_rate": 0.25,
+    "num_epochs": 50,
+    "num_conv": 4,
+    "batch_norm": false,
+    "no_dropout": false,
+    "batch_size": 16,
+    "random_seed": 1
+}

@@ -1,0 +1,11 @@
+=== Evaluation Results ===
+2025-12-03 21:25:18::INFO::RMSE: 1.4359
+2025-12-03 21:25:18::INFO::MAE: 1.2557
+2025-12-03 21:25:18::INFO::Pearson Correlation: 0.6056 (p-value: 6.39e-04)
+2025-12-03 21:25:18::INFO::Spearman Correlation: 0.4842 (p-value: 9.03e-03)
+2025-12-03 21:25:18::INFO::Concordance Index (CI): 0.6711
+2025-12-03 21:25:18::INFO::
+=== Summary Statistics ===
+2025-12-03 21:25:18::INFO::Number of samples: 28
+2025-12-03 21:25:18::INFO::True values - Mean: 6.0773, Std: 1.7720
+2025-12-03 21:25:18::INFO::Predictions - Mean: 6.2219, Std: 1.3018
